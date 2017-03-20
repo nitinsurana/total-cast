@@ -1,0 +1,5 @@
+MovieRepeatIntent repeat movie name is {movie}
+MovieRepeatIntent repeat movie {movie}
+MovieRepeatIntent to repeat movie {movie}
+MovieIntent start movie
+MovieIntent to start a movie

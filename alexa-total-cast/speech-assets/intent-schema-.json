@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "MovieRepeatIntent",
+      "slots": [
+        {
+          "name": "movie",
+          "type": "AMAZON.Movie"
+        }
+      ]
+    },
+    {
+      "intent": "MovieIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
